@@ -9,6 +9,8 @@ function createRandomPost() {
 }
 
 // 1) Create a new context
+
+/// Master Nigga
 const PostContext = createContext();
 
 function App() {
